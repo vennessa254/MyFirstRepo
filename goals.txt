@@ -1,0 +1,4 @@
+# My Personal and Academic Goals for Next Year
+1. Finish my Git & GitHub training.
+2. Build a portfolio of projects.
+3. Collaborate on open-source projects.
